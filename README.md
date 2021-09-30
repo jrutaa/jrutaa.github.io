@@ -1,2 +1,2 @@
 # jrutaa.github.io
-Wensite
+Website
